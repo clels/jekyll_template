@@ -1,0 +1,10 @@
+name: Beer Slayers
+pygments: true
+
+exclude: [gruntfile.js, node_modules, sass, js, package.json]
+
+timezone: America/Denver
+
+future: false
+
+domain: beerslayers.com
