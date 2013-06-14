@@ -9,6 +9,6 @@ Install
 -------
 
 Install Jekyll
-'gem install jekyll'
+> gem install jekyll
 
 Install Node.js
