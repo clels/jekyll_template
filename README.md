@@ -17,3 +17,11 @@ Install grunt.js [View how here](http://gruntjs.com/getting-started)
 
 Install grunt packages
 'npm install'
+
+Run 'grunt' to run the default grunt tasks.
+
+Run 'jekyll serve' to create a local server.
+
+Run 'jekyll build' to build site into _site/ dir
+
+Run 'jekyll watch' to auto build files after editing.
